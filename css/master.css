@@ -18,7 +18,9 @@
     font-family: Arial,Helvetica,sams-serif;/* set the font here */
     text-align: center;/* set the text alignment here */
    }
-
+div {
+  background-color: powderblue;
+  }
   footer {
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -61,6 +63,3 @@
     margin: 0 auto;
     text-align: left;
   }
-div {
-  backound-color: powderblue;
-}
