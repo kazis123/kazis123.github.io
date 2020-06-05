@@ -57,6 +57,8 @@ div {
     margin-bottom: 3rem;
     margin-top: 3rem;
     font-family:Arial, Helvetica, sans-serif;
+    font-style:Italic;
+    color:green;
   }
 
   /* this controls how the bullet points in the resume page looks */
