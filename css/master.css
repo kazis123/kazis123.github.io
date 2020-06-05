@@ -20,7 +20,7 @@
    }
 div {
   background-color: #C2FF33;
-  float:right;
+ /* float:right; */
   }
   footer {
     margin-top: 2rem;
